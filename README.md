@@ -10,7 +10,7 @@ The goal is to **identify churn drivers**, **segment high-risk customers**, and 
 
 ## 🔗 View Project
 [![View Project](https://img.shields.io/badge/View%20Project-PowerBI-orange?style=for-the-badge&logo=power-bi)](https://github.com/amar4542/Churn-Analysis/blob/main/Churn%20Analysis.pbix)  
-[![⬇️ Download_Dataset](https://img.shields.io/badge/Download-.Dataset-blue?style=for-the-badge&logo=files)](https://github.com/amar4542/Churn-Analysis/raw/main/Customer_Data.csv)  
+[![⬇️ Download_Dataset](https://img.shields.io/badge/Download-Dataset-blue?style=for-the-badge&logo=files)](https://github.com/amar4542/Churn-Analysis/raw/main/Customer_Data.csv)  
 [![🖼️ View Snapshot](https://img.shields.io/badge/View-Snapshot-green?style=for-the-badge&logo=image)](https://github.com/amar4542/Churn-Analysis/blob/main/Snap%20Shot%20of%20Churn%20Analysis.pdf)  
 
 ---
