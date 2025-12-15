@@ -41,7 +41,6 @@ The goal is to **identify churn drivers**, **segment high-risk customers**, and 
 - **DAX (Data Analysis Expressions)**
 - **SQL (MySQL)**
 - **Microsoft Excel**
-- **Data Modeling & Visualization Best Practices**
 
 ---
 
@@ -73,5 +72,4 @@ The goal is to **identify churn drivers**, **segment high-risk customers**, and 
 - DAX calculations
 - SQL data extraction
 - End-to-end BI project execution
-- 
 ---
